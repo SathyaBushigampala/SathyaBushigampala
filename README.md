@@ -79,10 +79,8 @@ I am a computer science undergraduate passionate about engineering reliable soft
 
 ---
 
-## 🤖 Open Source & Community Initiatives
-
-- **[Hacktoberfest 2026 NIAT-KKH](https://github.com/SathyaBushigampala/Hacktoberfest-2026-NIAT-KKH)**: Official community hack day repository for NIAT-KKH. Author of technical challenge briefs (Gemma 4 & Open-Source AI), contributor guidelines, submission templates, and open-source review workflows.
 - **[Student Assistant](https://github.com/SathyaBushigampala/Student_Assistant)**: Interactive educational companion built with Python, Gradio, and Google's Gemini 3.6 Flash, dynamically switching between analogy-driven peer guidance and formal academic professor instruction.
+- **[Hacktoberfest 2026 NIAT-KKH](https://github.com/SathyaBushigampala/Hacktoberfest-2026-NIAT-KKH)**: Hackathon hub used to submit my GemmaStudio project for the MLH & Google "Best Use of Gemma 4" challenge track.
 
 ---
 
